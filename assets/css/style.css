@@ -1,0 +1,79 @@
+#body {
+    background-image: url("../images/background.jpg")
+}
+
+#header {
+    background-color: #ff4500;
+    margin: 10px;
+    height: 80px;
+    width: 30%;
+    font-size: 40px;
+    text-align: center;
+    font-weight: bold;
+    color: #ffffff;
+}
+
+#rules {
+    background-color: #ffe4b2;
+    margin: 10px;
+    height: 250px;
+    width: 50%;
+    font-size: 20px;
+    text-align: left;
+    color: #000000;
+}
+
+#randResult {
+    float: left;
+    background-color: #00ff7f;
+    margin: 10px;
+    height: 80px;
+    width: 15%;
+    font-size: 20px;
+    text-align: left;
+    font-weight: bold;
+    color: #000000;
+}
+
+#outcome {
+    float: left;
+    background-color: #00ffff;
+    margin: 10px;
+    height: 80px;
+    width: 15%;
+    font-size: 15px;
+    text-align: left;
+    color: #000000;
+}
+#crystals {
+    clear: both;
+    margin: 10px;
+    width: 100%;
+}
+.crystal-image {
+    clear: both;
+    height: 200px;
+    width: 200px;
+}
+
+#totalScoreHeader {
+    clear: both;
+    background-color: #0d98ba;
+    margin: 10px;
+    height: 30px;
+    width: 20%;
+    font-size: 25px;
+    font-weight: bold;
+
+}
+
+#totalScore {
+    clear: both;
+    background-color: #0d98ba;
+    margin: 10px;
+    height: 100px;
+    width: 20%;
+    font-size: 50px;
+    font-weight: bold;
+    color: #ffffff;
+}
